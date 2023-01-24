@@ -1,4 +1,4 @@
-use crate::observable::Observable;
+use crate::data::observable::Observable;
 use crate::time;
 use anymap::any::UncheckedAnyExt;
 use anymap::Map;

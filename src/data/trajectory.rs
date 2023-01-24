@@ -1,5 +1,5 @@
-use crate::event::Event;
-use crate::observable::Observable;
+use crate::data::event::Event;
+use crate::data::observable::Observable;
 use anymap::any::UncheckedAnyExt;
 use uuid::Uuid;
 
